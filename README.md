@@ -67,4 +67,4 @@ O Visão 16 resolve isso com **simplicidade, automação e inteligência artific
 
 ---
 
-© 2026 Visão 16. Todos os direitos reservados.
+© 2026-2027 Visão 16. Todos os direitos reservados.
