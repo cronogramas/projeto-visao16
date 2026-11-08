@@ -36,10 +36,10 @@ O Visão 16 resolve isso com **simplicidade, automação e inteligência artific
 
 ### O que foi feito até aqui
 - **Dashboards**: Cenários, Poupanças, Investimentos e Educação, com drag‑and‑drop e feedback háptico.  
-- **Painel Cripto**: integração com Binance, OKX, Coinbase, conversão automática de moedas e gráficos TradingView.  
+- **Painel Cripto**: integração com corretoras, conversão automática de moedas e gráficos TradingView.
 - **Agente Autônomo**: simulações sandbox com arbitragem, leitura de notícias e dimensionamento via Kelly Criterion e criação do Agente Baup (Experimental)
 - **Educação**: fórum estilo rede social com XP, badges, estudos de caso e insights sociais.  
-- **Administração**: remoção do dashboard de RH/Admin, substituído por guia oculta de login para administradores e moderadores.  
+- **Administração**: Adicionado aba para administradores e moderadores
 - **Compliance e Ética**: avisos claros, moderação de conteúdo e logs imutáveis para auditoria.  
 
 ---
